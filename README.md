@@ -12,9 +12,11 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 
 ## 📸 Dashboard Preview
 
-| Dashboard | Pivot Tables | Sales Data |
-|:---:|:---:|:---:|
-| ![Dashboard](./Post-1.png) | ![Pivot Tables](./Post-2.png) | ![Sales Data](./Post_-_3.png) |
+<p>
+  <img src="./Post-1.png" width="32%" alt="Dashboard"/>
+  <img src="./Post-2.png" width="32%" alt="Pivot Tables"/>
+  <img src="./Post_-_3.png" width="32%" alt="Sales Data"/>
+</p>
 
 ---
 
@@ -38,25 +40,6 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 - **Region** — Filter by East, North, South, West
 - **Product** — Filter by Action Figure, Blender, Moisturizer, Novel, Smartphone, Sneakers, Tent
 - **Sales Person** — Filter by individual team members
-
----
-
-## 📋 Pivot Tables
-
-Four pivot tables power the dashboard backend:
-
-| Pivot Table | Rows | Values |
-|---|---|---|
-| Sales by Region | Region | Sum of Total Sales |
-| Sales by Product | Product | Sum of Total Sales |
-| Sales by Sales Person | Sales Person | Sum of Total Sales |
-| Units by Product | Product | Sum of Units Sold |
-
-**Summary Metrics (calculated via pivot):**
-- Sum of Total Sales: **5,14,24,200**
-- Average of Total Sales: **4,28,535**
-- Sum of Units Sold: **12,471**
-- Sum of Profit: **1,57,79,700**
 
 ---
 
