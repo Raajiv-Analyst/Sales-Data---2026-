@@ -6,7 +6,7 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 
 ## 🔴 Live Dashboard
 
-👉 **[View Live Dashboard](https://lnkd.in/gg82VnbWl)**
+👉 **[View Live Dashboard](https://onedrive.live.com/:x:/g/personal/95c4028dbb4287d1/IQCrIp-J7GAQSIy3hTGIAnSWAfLNxwwbjs750RzKBeh6leE?rtime=XapaNxiu3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85NWM0MDI4ZGJiNDI4N2QxL0lRQ3JJcC1KN0dBUVNJeTNoVEdJQW5TV0FmTE54d3dianM3NTBSektCZWg2bGVFP2U9NWN6MWV3)**
 
 ---
 
