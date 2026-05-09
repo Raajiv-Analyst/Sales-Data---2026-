@@ -6,21 +6,16 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 
 ## 🔴 Live Dashboard
 
-👉 **[View Live Dashboard](https://onedrive.live.com/:x:/g/personal/95c4028dbb4287d1/IQCrIp-J7GAQSIy3hTGIAnSWAfLNxwwbjs750RzKBeh6leE?rtime=XapaNxiu3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85NWM0MDI4ZGJiNDI4N2QxL0lRQ3JJcC1KN0dBUVNJeTNoVEdJQW5TV0FmTE54d3dianM3NTBSektCZWg2bGVFP2U9NWN6MWV3)**
+[![Sales Dashboard Preview](./Post-1.png)](https://onedrive.live.com/:x:/g/personal/95c4028dbb4287d1/IQCrIp-J7GAQSIy3hTGIAnSWAfLNxwwbjs750RzKBeh6leE?rtime=XapaNxiu3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85NWM0MDI4ZGJiNDI4N2QxL0lRQ3JJcC1KN0dBUVNJeTNoVEdJQW5TV0FmTE54d3dianM3NTBSektCZWg2bGVFP2U9NWN6MWV3)
 
----
-
-## 📸 Dashboard Preview
-
-<p>
-  <img src="./Post-1.png" width="32%" alt="Dashboard"/>
-</p>
+> 👆 **Click the image above to view the Live Dashboard**
 
 ---
 
 ## 📊 Dashboard Features
 
 ### 🔢 KPI Summary Cards
+
 | Metric | Value |
 |---|---|
 | Total Sales | Rs. 5,14,24,200 |
@@ -42,7 +37,6 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 ---
 
 ## 🛠️ Tools Used
-
 - **Microsoft Excel** — Pivot Tables, Charts, Slicers, Conditional Formatting
 - **Excel Formulas** — SUMIF, AVERAGEIF, dynamic KPI calculations
 - **Data Visualization** — Line, Bar, Donut charts with custom formatting
@@ -50,7 +44,6 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 ---
 
 ## 📌 Key Insights
-
 - 🏆 **Smartphone** is the top-selling product with **Rs. 20,170 L** in revenue
 - 🥇 **Tent** is the second highest with **Rs. 15,900 L**
 - 🌍 **West region** leads in sales with **Rs. 16,158 L**
@@ -60,8 +53,6 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 ---
 
 ## 🤝 Connect with Me
-
-I'm always open to feedback, collaborations, and discussions!
 
 <a href="mailto:rg28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
