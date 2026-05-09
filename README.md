@@ -14,8 +14,6 @@ An interactive **Sales Dashboard** built entirely in Microsoft Excel, featuring 
 
 <p>
   <img src="./Post-1.png" width="32%" alt="Dashboard"/>
-  <img src="./Post-2.png" width="32%" alt="Pivot Tables"/>
-  <img src="./Post_-_3.png" width="32%" alt="Sales Data"/>
 </p>
 
 ---
